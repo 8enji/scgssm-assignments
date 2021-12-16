@@ -1,1 +1,2 @@
-AP Computer Science 101 and Advanced Computer Programming 102
+Miscellaneous code assignemnts
+- unsure if all work properly
