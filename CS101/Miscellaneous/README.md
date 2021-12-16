@@ -1,2 +1,2 @@
-Miscellaneous code assignemnts
+# Miscellaneous code assignments
 - unsure if all work properly
