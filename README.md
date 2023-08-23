@@ -1,2 +1,3 @@
-# SCGSSM
-School assignments for SCGSSM classes.
+# scgssm-assignments
+* school assignments for scgssm classes
+* old code 👴
